@@ -1,0 +1,2 @@
+Area of rectangle: 7000
+Perimeter of rectangle: 340
